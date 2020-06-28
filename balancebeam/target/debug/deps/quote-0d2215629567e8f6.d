@@ -1,0 +1,13 @@
+/Users/ben/Documents/CS110L/proj2-banders9/balancebeam/target/debug/deps/quote-0d2215629567e8f6.rmeta: /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/lib.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/ext.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/format.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/ident_fragment.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/to_tokens.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/runtime.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/spanned.rs
+
+/Users/ben/Documents/CS110L/proj2-banders9/balancebeam/target/debug/deps/libquote-0d2215629567e8f6.rlib: /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/lib.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/ext.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/format.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/ident_fragment.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/to_tokens.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/runtime.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/spanned.rs
+
+/Users/ben/Documents/CS110L/proj2-banders9/balancebeam/target/debug/deps/quote-0d2215629567e8f6.d: /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/lib.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/ext.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/format.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/ident_fragment.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/to_tokens.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/runtime.rs /Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/spanned.rs
+
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/lib.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/ext.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/format.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/ident_fragment.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/to_tokens.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/runtime.rs:
+/Users/ben/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.6/src/spanned.rs:
