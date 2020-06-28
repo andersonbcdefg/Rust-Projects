@@ -1,0 +1,34 @@
+Example 1: No. You can't try to change s (by assigning a new value to it) while there are immutable references to it that get used later (i.e. ref3). We could get it to compile by passing s to println instead of ref3.
+```
+fn main() {
+    let mut s = String::from("hello");
+    let ref1 = &s;
+    let ref2 = &ref1;
+    let ref3 = &ref2;
+    s = String::from("goodbye");
+    println!("{}", ref3.to_uppercase());
+}
+```
+
+
+
+Example 2: No. This function returns a reference to a variable that gets dropped when the function exits. If you want to return s, write "return s;" instead, so that ownership is passed to the enclosing scope.
+```
+fn drip_drop() -> &String {
+    let s = String::from("hello world!");
+    return &s;
+}
+```
+
+
+
+Example 3: No. This code tries to assign the first element of v to s2, but this is not allowed because s2 would take ownership of this element (moving it out of the vector). Rust doesn't allow this because then one index of the vector would be "invalid" (because it's been consumed) and the others wouldn't, and that would be wack. If you actually want to remove the value, you can call .remove(). If you just want to borrow/read it, access with &.
+```
+fn main() {
+    let s1 = String::from("hello");
+    let mut v = Vec::new();
+    v.push(s1);
+    let s2: String = v[0];
+    println!("{}", s2);
+}
+```
